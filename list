@@ -1,0 +1,384 @@
+Hello there! This will be a long list of things the community has been suggesting over the months/year. The previous wish-list can be found [HERE.](http://redd.it/25njte/)
+
+I will be activly updating this list ASAP based upon the feedback i get.
+
+-------
+
+**PENDING** means the change/addition is little disscussed and so is available for larger debate (sorry for terrible englano).
+
+**STILL UNDECIDED** means there are mixed feelings by people and the change/addition is still undecided :X.
+
+**DONE** means the change/additon has been made by Valve.
+
+-------
+
+**DAY 17 UPDATE:** Added a lot of stuff to [ GAMEPLAY ], added small stuff to [ MISC ], [ MENU ], [ UI ], [ MAPS ]; removed something from [ MATCHMAKING ].
+
+**NOTE:** Backups are listed [HERE](http://www.reddit.com/r/HypeR_CS/).
+
+-------
+
+**POLLS**
+
+[POLL1](http://strawpoll.me/2691273/r).
+
+-------
+
+***[ CS:GO BETA ]***
+
+*-* Everyone that has CS:GO and ateast 50 wins in competitive will get access to the Beta Client which will appear as a seperate game in your Steam library and aslo access to a special Steam Forum for the feedback.
+
+***[ CASES ]***
+
+*-* Replace the current skin drops with [key-less crates](http://i.imgur.com/4JwuWjE.png).
+
+***[ MATCHMAKING ]***
+
+*-* Split MM into "Casual Competitive" and "Competitive":
+
+-- "Casual Competitive" will be the current "Competitive" mode we have now, but the new "Competitive" will:
+
+Use pro rules:
+
+--- Round time changed to 1:45 (mp_roundtime_defuse 1.75),
+
+--- C4 timer changed to 35 (mp_c4timer 35).
+
+And will include:
+
+--- 128 tick servers,
+
+--- And Official Team MatchMaking, which will face premade two five-men teams againts each other.
+
+-- A player must have 25/50 wins in "Casual Competitive" to get access to "Competitive"
+
+*-* Vote for overtime if  match ends with a tie. Must be 100%
+
+*-* Remove deathcam as it gives away too much info.
+
+*-* Split the DMG rank into 50% Distinguised Master Guardian and 50% Legendary Master Guardian.
+
+*-* Add (more)servers in Russia, Taiwan, China, Korea, ... (All over Asia basicly).
+
+*-* Add option to choose server location. The community is big enough for that now.
+
+*-* Add forgive option when a teammate accidentaly damages/kills you.
+
+*-* Add a 45 second half-time pause. People are thirsty or just have to go take a piss, you know :x.
+
+*-* Add more interesting statistics.
+
+*-* Fix not being able to surrender if teammate abandones in warmup.
+
+*-* If a bullet hits an enemy and a teammate, you shouldn't be able to be kicked for it.
+
+***[ GAMEPLAY ]***
+
+**STILL UNDECIDED** *-* An alternitive weapon for the Ts AK-47. Any ideas? For now people are saying FAL.
+
+**STILL UNDECIDED** *-* Bring back the MP5 (with stats of previous Counter-Strike titles?) as a replacable weapon for the MP7. Mixed feelings by people :X
+
+*-* Buff for unsilenced M4A1-S and USP-S.
+
+**DONE** *-* SMALL buff for the Tec9 as right now I don't see it being choosed over the CZ at all.
+
+*-* Adjustments to movement: [LINK](https://docs.google.com/document/d/1Cka_5TG0gHaFivFYVe0BEh75hrMeAmlO12Nl6oBb3qA/edit)
+
+*-* Adjustments to hitboxes and player models:
+
+-- *All* player models should be adjusted to fit the hitboxes more,
+
+-- Hitboxes and player models should be "straightend" when [chrouching](http://imgur.com/a/1nvNM),
+
+-- Fix hitboxes on [ramps](https://www.youtube.com/watch?v=cAxaaGXtmcE).
+
+-- Fix hitboxes when (crouch)jumping, 
+
+-- Fix hitboxes when planting,
+
+*-* Increase the visual indication of bullet impacts (body shots, walls, etc).
+
+*-* Fix for the vertical sounds.
+
+*-* Fix the bug where you share spawn point with someone else and you get stuck ontop of them.
+
+*-* Fix the bug where you sometimes spawn outside the map in warmup.
+
+*-* Fix the bug where you spawn in the enemy team's spawn.
+
+*-* Change Defuse Kit price to 200.
+
+*-* Increase recoil for P90.
+
+*-* MP7 should be lowered in pirce, its the least effective SMG in pirce/performance.
+
+*-* SCAR-20 should have it's damage lowered so that it takes 3 shots to the feet to kill (still 1 HS 2 body)
+
+*-* Increase inaccuracy for all weapons (except for the Scout) when mid-air.
+
+*-* Add A LED light on c4 which lights up when it can be plantable.
+
+*-* Grenades should not block player movement, but rather bounce off the player.
+
+*-* When at zero velocity (standing still),  every gun should be 100% accurate (remove inaccuracy value for the first shot).
+
+*-* When standing still with the AWP, it should hit exactly in the middle, even when double zoomed. (when someone is peeking between a tight gap or close to a wall there is 50% chance you get a wallshot instead of a clean hit).
+
+*-* Scout should not be accurate while falling.
+
+*-* When someone is hit in the head and survives, the head bounces backwards, sideways, forewards, the hitbox moves aswell making the next 1-2 shots miss because of that. this is why you are fabbled by hitting them once in the head and you cant understand why you didnt hit him one more time. So when you get HSed, your head and hitbox stays the same.
+
+*-* Make so that rapidly pressing ADADADAD decreases your accuracy so its like you are running.
+
+*-* Ability to have assists shown with a different color instead of red (quicker confirmation in firefights).
+
+*-* Increase HE damage output and make it more consistent.
+
+*-* Withdrawing grenades should be faster.
+
+*-* Grenades should be thrown *instantly* when pressing the mouse key. Right now there is a bit of delay.
+
+*-* Enemy Decoy grenades should only be visible on radar if spotted.
+
+*-* You should be able to take BOT's weapons by standing close to them and press the +use key..
+
+*-* In freeze time, a player can use the +use and +attack2(a second button would be neccessary as the change above would not work,can be chosen by the player) button on a bot, which will then open a buy menu which will use the bots money. Thats alot better than having him buy a shotgun with $8000 remaining for the last round :'(
+
+*-* Bots should have their buy preferences to something like this -> M4/AK-47 + Armor > Galil/Famas + Armor + P250.
+
+*-* Bots should always say "YES" when give a commnad by a human.
+
+*-* Camera Interpolation should only be enabled for spectators. Click [THIS](http://redd.it/2h17nv) to see why.
+
+*-* Fix [smooth FOV transition](https://www.youtube.com/watch?v=YvLOePVn6Tc&feature=youtu.be) after quick crouch right after scoped shot.
+
+*-* Remove aimpunch when player has armour.
+
+*-* Fix [ghost footsteps](http://youtu.be/nv_BLN730IQ).
+
+*-* Fix players spawning with a rotated camera angle.
+
+*-* Fix rare bug where player can spawn mid-air, and able to look over objects.
+
+*-* G3SG1's reload time should be the same as the SCAR-20's.
+
+*-* Weapons should not share same ammo type.
+
+*-* Fix Galil reload animation; The viewmodels uses the same mag.
+
+*-* Fix not being able to pick up weapons if a grenade is near.
+
+*-* Fix being hard to pick up weapons using +use key if you're standing on it.
+
+*-* SCAR-20 should have it's damage lowered so that it takes 3 shots to the feet to kill (still 1 HS 2 body).
+
+*-* Fix seeing through smokes if its close to an object or texture (e.g. [fences](http://youtu.be/p93sM1BdX_Y)).
+
+*-* Fix molotovs being extinguished even though the smoke is not even touching it.
+
+*-* Fix bug where any type of grenade that explodes at the same time as a defuse, the defuse sound won't even play.
+
+*-* Fix defuse not counting if the defuse gets killed just as the bomb **was** defused.
+
+*-* Make grenade hitboxes smaller.
+
+*-* Increase c4 planting sound.
+
+*-* HE grenade damage should be more consistent (not do 1 dmg just because you are standing half an inch above it on an elevated position).
+
+***[ DEATHMATCH ]***
+
+*-* Split DM into:
+
+-- Normal DM,
+
+-- FFA DM,
+
+-- FFA HSONLY DM,
+
+-- etc.
+
+*-* Remove spawn protection; People just abuse it.
+
+*-* Remove weapon bonuses; Poeple use it to escape fights when they have little hp.
+
+***[ MAPS ]***
+
+*-* Nuke:
+
+-- Replace SAS with GSG-9,
+
+-- Door in squeaky should not close by itself.
+
+*-* Dust2:
+
+-- Revert Bombsite A to its former size. The map is already T sided and this just makes it more.
+
+*-* CobbleStone:
+
+-- Open up Windows in in [B site secondary entrance](http://imgur.com/a/n3HzV).
+
+*-* Overpass:
+
+-- Make door(at B water) sound louder.
+
+***[ UI ]***
+
+*-* Add [damage done/taken statistics](http://i.imgur.com/EPUebFJ.jpg) on scoreboard at end of round.
+
+*-* Add [commend buttons](http://i.imgur.com/VKs8d49.jpg) at end of match to commend players directly via the scoreboard.
+
+*-* Add quick voice chat [volume sliders](http://imgur.com/XZZ5oFb) on scoreboard.
+
+*-* Add [auto-buy preview](http://i.imgur.com/xhaktMh.png).
+
+*-* Replace rifle bullets in bottom-right corner with [shotgun ones](http://imgur.com/yNqTBDF) when having one equipt.
+
+*-* Fix Buy menu not being clickable if rejoining a game after a timeout
+
+*-* Fix there sometimes being duplicated rank on an invisible '6th' player in Matchmaking.
+
+*-* Allow us to cancel/abort loading screens(conecting so servers) using Esc.
+
+*-* Reintroduce the command from CS:S (hud_deathnotice_time) makes deathnotices stay longer or never go away, for movie makers mostly.
+
+*-* Fix the "(#Name) killed you with their ak-47" thing stuck on your screen sometimes.
+
+*-* Show [which weapon](http://i.imgur.com/VJjHE6F.png) your teammates have on the scoreboard.
+
+*-* Add [armor](http://i.imgur.com/Vdt0Crh.jpg?1) to the freeze time weapon display thing. bleh.
+
+*-* Add a command that makes us able to change the hud size of the chat.
+
+*-* Add cl_crosshair_dot_thickness, cl_crosshair_dot_size, cl_crosshair_dot_color, cl_crosshair_dot_alpha crosshair vars.
+
+*-* Add option for defuse kit to be displayed [under the radar](http://i.imgur.com/wZdTHOO.jpg), just like the C4.
+
+*-* Fix the "X added Y kills to their stattrak weapons" message counting bots as kills.
+
+*-* Fix not being able to open buymenu in Deathmatch if the buymenu was open when the warmup ended.
+
+*-* Make the radar not dissapear when round ends.
+
+*-* Fix buymenu not fully working if you connected back because of a timeout.
+
+*-* Fix HUD sometimes not showing when connectiong to servers.
+
+*-* In the bottom right corner you can see the bullets lined up, these bullets should match the caliber of the weapon (shotguns shells, pistol rounds etc.. instead of all looking like rifle rounds).
+
+***[ MENU ]***
+
+*-* Remove AWARDS page, add MY PROFILE page:
+
+-- In the MY PROFILE page, you can see your stats, achievements, elo ranking, amount of elo you need to gain to rank up, etc.
+
+*-* Remove INVENTORY page, CS:GO Store, add ARMORY page:
+
+-- In the ARMORY page, you can view you inventory, the CS:GO Store and the WORKSHOP where you can browse through maps/skins/stickers.
+
+*-* Add new item inspect option, which inspects item from 
+the first person view, and others like reload, etc.
+
+*-* Allow us to edit options menu while in matchmaking queue.
+
+*-* Make an in-game crosshair generatior in the options (make it as in depth as CSS).
+
+*-* Add [minimap](http://imgur.com/h5KbYyC) in lobby for drawing strats.
+
+*-* Add [market price filter](http://i.imgur.com/IwH7zRT.jpg) in invetory.
+
+*-* While in a lobby, you should be able to use every tab, including changing options.
+
+*-* Make us able to see if our friend(s) has a global cooldown via "csgo profile".
+
+*-* Add server [start-up options](http://imgur.com/a/cjeKF).
+
+*-* Add option in inventory page to [stack up duplicate items](http://imgur.com/a/oEgZh).
+
+*-* Show us friends' cooldown in the "Profile" window.
+
+***[ OVERWATCH ]***
+
+*-* The Overwatcher *should* have access to the text and voice chats.
+
+*-* Disable skins when in OW case.
+
+*-* Make Overwatch more in depth with the demoui tool. (rewind etc..)
+
+*-* Show us a "Suspect Result" when action has been(or not) taken on a Suspect we overwatch. Its a good feelink knowing a cheater/troll got banned.
+
+***[ DEMOS ]***
+
+*-* Increase tickrate for all OW, GOTV demos.
+
+*-* Make us able to toggle players, view scoreboard, minimap, etc without closing the demoUI.
+
+***[ SPEC ]***
+
+*-* Smokes in demos seem to act differently for specators. If spec-ing a player who's in a smoke, you can see much more clearer through it than he/she can.
+
+***[ MISC ]***
+
+*-* Remove cheat protection on the following commands:
+
+-- mat_postprocess_enable,
+
+-- cl_wpn_sway_scale,
+
+-- cl_use_new_headbob.
+
+*-* Chicken changes based on pro feedback:
+
+-- Add cvar cl_chickens_enable, which enables/disables chickens.
+
+*-* Add cvar [reload_ui](http://www.reddit.com/r/GlobalOffensive/comments/2getgs/we_need_a_reload_ui_command/) that reloads all flash files for hud, etc.
+
+*-* Add cvar cl_ragdoll_physics_enable, which enables/disables ragdolles.
+
+*-* Add a refrest rate drop down list in the video settings as some people may be unfamilliar with console commads/launch options.
+
+*-* Bring back the minmodels feature from CSS, where you could decide which playermodel your and the enemy team has.
+
+*-* More [audio options/sliders](http://imgur.com/a/fXybW).
+
+*-* Make sv_grenade_trajectory visible for everyone on the server if enabled, not only the server operator.
+
+*-* Add options for the M4A1-S and USP-S to whether it should have a silencer attached when bought.
+
+*-* Veteran coin should display the amount of years you have played above 5 years, instead of just showing 5 years even though some have 10 years experience.
+
+*-* Bring back sprays. There can be a workshop for sprays, where people can make their own logos and then make them into some "Spray Can". Also add a cvar cl_sprays_disable_public, which will toggle whether to display sprays by other people.
+
+*-* Allow us to change the "TracerFrequency" key for every weapon. Maybe remove this key from every "weapon_" file and put them all in a "weapon_tracerfrequency" file which will contain the key for every every weapon. I would really like to change that for some weapons.
+
+*-* Add a slider for "saturation/digital vibrance" (independent from the GFXCard) in the video settings for game color.
+
+*-* Fix CZ75-A triggering P250 achievement.
+
+*-* When you alt-tab back in all the client side objects are re-rendered, making the game stutter/lagg for a few secounds. sometimes all the dead bodies appear in the same place as a result of this.
+
+***[ PERFORMANCE ]***
+
+*-* Let Windows users use +cl_csm_enabled 0.
+
+***[ MARKET ]***
+
+*-* Add [hyper links](http://i.filmot.org/WVhd1vO.jpg) ^^^Kappa on Steam Market pages for cases.
+
+-------
+
+If you notice a typo or have a suggestion, simply comment on the post!
+
+-------
+
+Thanks to:
+
+- /u/inderdeluxegames and /u/kSwitch for extra helping,
+
+- Various pro players, Lurppis,
+
+- /u/sMSneakyPete, /u/inderdeluxegames, /u/Twysty, /u/H1GHMANN, /u/carlsoOn, /u/MaxwellTheChicken, /u/Erasaki, /u/DannysaurusRex, /u/FREIHH, /u/bze, /u/eNzyy, /u/micronn, /u/lurppis_, /u/LeftFo0t, /u/extivity, /u/Philip_the_Great, /u/Nobuga, /u/kSwitch, /u/RandomSpeedArt, /u/Hotw1re, /u/msd92, /u/Grizlack, /u/L4g4d0, /u/SirFrooze, /u/xaeleepswe, /u/thecoolracer, /u/MrNihiL, /u/Nagsert, /u/killinginthenameo, /u/kruegjon, /u/JtSs, /u/her-1g, /u/JUAN-DEAG, /u/iPouf, /u/Salamatiqus, /u/epcclan, /u/zooomonkey, /u/DatHutchTouch, /u/3InchesOfRawPower, /u/lewoop,
+
+- Ofcourse Lord GabeN and the CS:GO Dev team <2,
+
+- And the rest of the community for the suggestions!
